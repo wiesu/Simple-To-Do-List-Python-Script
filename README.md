@@ -12,7 +12,7 @@ This is a simple To-Do List application written in Python.
 ## How to Run
 
 1. Clone the repository.
-2. Ensure you have Python installed on your machine.
+2. Ensure you have Python compiler installed on your desktop or phone.
 3. Run the script using `python main.py`.
 
 ## Code Explanation
