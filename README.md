@@ -8,6 +8,7 @@ This is a simple To-Do List application written in Python.
 - Delete tasks
 - View tasks
 - Save tasks to a file (`tasks.txt`) so they are available next time you run the program
+- It handles incorrect inputs, ensuring a better user experience
 
 ## How to Run
 
