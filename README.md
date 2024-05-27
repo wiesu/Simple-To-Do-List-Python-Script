@@ -1,6 +1,6 @@
 # To-Do List Project
 
-This is a To-Do List application written in Python.
+This is a To-Do List application written in Python
 
 ## Features
 
