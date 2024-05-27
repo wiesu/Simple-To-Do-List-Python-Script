@@ -12,11 +12,11 @@ This is a To-Do List application written in Python.
 
 ## How to Run
 
-1. Clone the repository.
-2. Ensure you have Python compiler installed on your desktop or phone.
-3. Run the script using `python main.py`.
+1. Clone the repository
+2. Ensure you have Python compiler installed on your desktop or phone
+3. Run the script using `python main.py`
 
 ## Code Explanation
 
-- `main.py`: Contains the main logic of the application.
-- `tasks.txt`: Stores the list of tasks.
+- `main.py`: Contains the main logic of the application
+- `tasks.txt`: Stores the list of tasks
